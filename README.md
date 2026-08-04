@@ -104,4 +104,4 @@ Ce projet est publié à des fins pédagogiques et de démonstration de compéte
 
 **Oumaro Titans DJIGUIMDE**
 📍 Dakar, Sénégal
-🔗 [LinkedIn](www.linkedin.com/in/oumaro-titans-djiguimde-400a01330) · [GitHub](https://github.com/Odjiguimde)
+🔗 [LinkedIn](https://www.linkedin.com/in/oumaro-titans-djiguimde-400a01330) · [GitHub](https://github.com/Odjiguimde)
