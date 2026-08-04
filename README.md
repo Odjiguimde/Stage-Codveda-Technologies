@@ -10,11 +10,11 @@ Ce dépôt regroupe les **9 notebooks Jupyter** réalisés dans le cadre de mon 
 
 Le programme s'est déroulé sur **trois niveaux de complexité croissante** — basique, intermédiaire, avancé — couvrant l'ensemble du cycle d'un projet de machine learning : prétraitement de données, apprentissage supervisé (régression et classification), apprentissage non supervisé, et deep learning.
 
-> 📄 Le rapport de stage complet, incluant la présentation de l'entreprise, la méthodologie et le bilan de l'expérience, est disponible dans ce dépôt : [`Rapport_de_stage_Codveda.pdf`](./Rapport_de_stage_Codveda.pdf)
+>  Le rapport de stage complet, incluant la présentation de l'entreprise, la méthodologie et le bilan de l'expérience, est disponible dans ce dépôt : [`Rapport_de_stage_Codveda.pdf`](./Rapport_de_stage_Codveda.pdf)
 
 ---
 
-## 👤 À propos
+##  À propos
 
 - **Stagiaire :** Oumaro Titans DJIGUIMDE
 - **Établissement :** École Supérieure Multinationale des Télécommunications (ESMT Dakar) — Filière Ingénierie de Conception des Télécommunications (INGC2)
@@ -24,7 +24,7 @@ Le programme s'est déroulé sur **trois niveaux de complexité croissante** —
 
 ---
 
-## 🗂️ Structure du dépôt
+##  Structure du dépôt
 
 | # | Notebook | Niveau | Dataset | Objectif |
 |---|----------|--------|---------|----------|
@@ -40,7 +40,7 @@ Le programme s'est déroulé sur **trois niveaux de complexité croissante** —
 
 ---
 
-## 📊 Résultats clés
+##  Résultats clés
 
 | Notebook | Modèle | Métrique principale |
 |---|---|---|
@@ -67,7 +67,7 @@ Le programme s'est déroulé sur **trois niveaux de complexité croissante** —
 
 ---
 
-## ▶️ Utilisation
+##  Utilisation
 
 ```bash
 # Cloner le dépôt
@@ -85,7 +85,7 @@ Chaque notebook est autonome et documenté (cellules markdown expliquant le cont
 
 ---
 
-## 🎯 Compétences développées
+##  Compétences développées
 
 - Maîtrise du cycle complet d'un projet de machine learning : prétraitement → entraînement → évaluation → interprétation
 - Algorithmes supervisés (régression, KNN, arbres de décision, Random Forest, SVM) et non supervisés (K-Means)
@@ -96,12 +96,12 @@ Chaque notebook est autonome et documenté (cellules markdown expliquant le cont
 
 ---
 
-## 📄 Licence
+##  Licence
 
 Ce projet est publié à des fins pédagogiques et de démonstration de compétences, dans le cadre de la validation d'un stage académique.
 
-## 📬 Contact
+##  Contact
 
 **Oumaro Titans DJIGUIMDE**
 📍 Dakar, Sénégal
-🔗 [LinkedIn](https://www.linkedin.com) · [GitHub](https://github.com)
+🔗 [LinkedIn](www.linkedin.com/in/oumaro-titans-djiguimde-400a01330) · [GitHub](https://github.com/Odjiguimde)
