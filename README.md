@@ -71,7 +71,7 @@ Le programme s'est déroulé sur **trois niveaux de complexité croissante** —
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/<votre-nom-utilisateur>/codveda-ml-internship.git
+git clone https://github.com/Odjiguimde/Stage-Codveda-Technologies.git
 cd codveda-ml-internship
 
 # Installer les dépendances
